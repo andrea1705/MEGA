@@ -18,7 +18,6 @@ Requirements:
 Usage:
     python ip_diagnostic.py
 
-See README.md for the full project documentation.
 """
 
 import sys
