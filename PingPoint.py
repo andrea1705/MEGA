@@ -1,5 +1,5 @@
 """
-ip_diagnostic.py
+pingpoint.py
 
 Command-line tool that reports the host's public IPv4 and IPv6 addresses
 along with ISP, ASN and geolocation details.
@@ -16,7 +16,7 @@ Requirements:
     refreshes may eventually return a rate-limit error.
 
 Usage:
-    python ip_diagnostic.py
+    python pingpoint.py
 
 """
 
